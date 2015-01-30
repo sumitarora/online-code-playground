@@ -6,6 +6,12 @@
 * http://codepen.io/
 * http://fiddlesalad.com/
 
+### Sass to CSS ###
+* http://sassmeister.com/
+* http://sasstocss.appspot.com/
+* http://www.sasstoscss.com/
+* http://precess.co/#scss
+
 ### HTML to Jade ###
 * http://html2jade.aaron-powell.com/
 * http://html2jade.org/
