@@ -12,6 +12,9 @@
 * http://www.sasstoscss.com/
 * http://precess.co/#scss
 
+### Less to CSS ###
+* http://precess.co/#less
+
 ### HTML to Jade ###
 * http://html2jade.aaron-powell.com/
 * http://html2jade.org/
