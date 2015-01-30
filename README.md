@@ -4,6 +4,7 @@
 * http://jsbin.com/
 * http://jsfiddle.net
 * http://codepen.io/
+* http://fiddlesalad.com/
 
 ### HTML to Jade ###
 * http://html2jade.aaron-powell.com/
