@@ -4,6 +4,9 @@
 * http://leafo.net/lessphp/editor.html
 * http://lesstester.com/
 
+### CSS to Less ###
+* http://css2less.cc/
+
 ### Python ###
 * http://repl.it/
 
